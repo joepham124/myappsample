@@ -1,2 +1,1 @@
-#MyApp
-This is my app and chuck gey
+This is my sample app.
